@@ -1,3 +1,4 @@
+npm init
 #give app name as : appname followed by last three digits of your usn
 # for eg. 1ms99cs001 -> nodeapp001
 # give port name : digit 9 follwed by last three digits of your usn
